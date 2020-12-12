@@ -1,4 +1,4 @@
-package ru.sibgatyllintdanil.firstmissingpositive;
+package ru.sibgatyllindanil.firstmissingpositive;
 
 public class MissingPositive {
 
